@@ -68,15 +68,14 @@
   # iOS Chrome not currently supported by Sauce Labs
 
   # Linux (unofficial):
-  # FIXME: currently fails 1 tooltip test
-  # {
-  #   browserName: "chrome",
-  #   platform: "Linux"
-  # },
-  # {
-  #   browserName: "firefox",
-  #   platform: "Linux"
-  # }
+  {
+    browserName: "chrome",
+    platform: "Linux"
+  },
+  {
+    browserName: "firefox",
+    platform: "Linux"
+  }
 
   # Android Chrome not currently supported by Sauce Labs
 
